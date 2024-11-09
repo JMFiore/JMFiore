@@ -1,5 +1,5 @@
 
-👀 I’m interested in data processing and statatistics
+👀 I’m interested in data engineering and statatistics
 
 ***Lenguages use:***
 
